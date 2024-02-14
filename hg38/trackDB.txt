@@ -1,0 +1,6 @@
+track ctrl_DP
+bigDataUrl 1_393_23_S1.J6.bed
+shortLabel ctrl_DP 
+longLabel control cells, split read counts J6
+type Bed 12
+scoreFilter 0
