@@ -4,3 +4,31 @@ shortLabel ctrl_DP
 longLabel control cells, split read counts J6
 type bigBed 12 .
 scoreFilter 5
+
+track luciferase_DP
+bigDataUrl 1_394_23_S2.J6.bb
+shortLabel luciferase_DP 
+longLabel cells with luciferase, split read counts J6
+type bigBed 12 .
+scoreFilter 5
+
+track QKI_kd
+bigDataUrl 1_395_23_S3.J6.bb
+shortLabel QKI_kd 
+longLabel QKI KD cells, split read counts J6
+type bigBed 12 .
+scoreFilter 5
+
+track ILF2_kd
+bigDataUrl 1_396_23_S4.J6.bb
+shortLabel ILF2_kd 
+longLabel ILF2 KD cells, split read counts J6
+type bigBed 12 .
+scoreFilter 5
+
+track CHX_DP
+bigDataUrl 1_397_23_S5.J6.bb
+shortLabel CHX_DP 
+longLabel CHX control cells, split read counts J6
+type bigBed 12 .
+scoreFilter 5
