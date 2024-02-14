@@ -1,0 +1,5 @@
+hub CHX_junctions_hub
+shortLabel CHX_junctions
+longLabel junction counts in NMD inactivaton experiments
+genomesFile genomes.txt
+email mariia.vlasenok@skoltech.ru
