@@ -3,4 +3,4 @@ bigDataUrl 1_393_23_S1.J6.bb
 shortLabel ctrl_DP 
 longLabel control cells, split read counts J6
 type bigBed 12
-scoreFilter 0
+scoreFilter 5
