@@ -3,32 +3,74 @@ bigDataUrl 1_393_23_S1.J6.bb
 shortLabel ctrl_DP 
 longLabel control cells, split read counts J6
 type bigBed 12 .
-scoreFilter 5
+scoreFilter 11
 
 track luciferase_DP
 bigDataUrl 1_394_23_S2.J6.bb
 shortLabel luciferase_DP 
 longLabel cells with luciferase, split read counts J6
 type bigBed 12 .
-scoreFilter 5
+scoreFilter 11
 
 track QKI_kd
 bigDataUrl 1_395_23_S3.J6.bb
 shortLabel QKI_kd 
-longLabel QKI KD cells, split read counts J6
+longLabel QKI kd cells, split read counts J6
 type bigBed 12 .
-scoreFilter 5
+scoreFilter 11
 
 track ILF2_kd
 bigDataUrl 1_396_23_S4.J6.bb
 shortLabel ILF2_kd 
-longLabel ILF2 KD cells, split read counts J6
+longLabel ILF2 kd cells, split read counts J6
 type bigBed 12 .
-scoreFilter 5
+scoreFilter 11
 
 track CHX_DP
 bigDataUrl 1_397_23_S5.J6.bb
 shortLabel CHX_DP 
 longLabel CHX control cells, split read counts J6
 type bigBed 12 .
-scoreFilter 5
+scoreFilter 11
+
+track QKI_kd_CHX
+bigDataUrl 1_399_23_S6.J6.bb
+shortLabel QKI_kd_CHX 
+longLabel QKI kd with CHX, split read counts J6
+type bigBed 12 .
+scoreFilter 11
+
+track ILF2_kd_CHX
+bigDataUrl 1_400_23_S7.J6.bb
+shortLabel ILF2_kd_CHX 
+longLabel ILF2 kd with CHX, split read counts J6
+type bigBed 12 .
+scoreFilter 11
+
+track QKI_oe
+bigDataUrl 1_401_23_S8.J6.bb
+shortLabel QKI_oe 
+longLabel QKI oe, split read counts J6
+type bigBed 12 .
+scoreFilter 11
+
+track QKI_oe_CHX
+bigDataUrl 1_402_23_S9.J6.bb
+shortLabel QKI_oe_CHX 
+longLabel QKI oe with CHX, split read counts J6
+type bigBed 12 .
+scoreFilter 11
+
+track ILF2_oe
+bigDataUrl 1_403_23_S10.J6.bb
+shortLabel ILF2_oe 
+longLabel ILF2 oe, split read counts J6
+type bigBed 12 .
+scoreFilter 11
+
+track ILF2_oe_CHX
+bigDataUrl 1_404_23_S11.J6.bb
+shortLabel ILF2_oe_CHX 
+longLabel ILF2 oe with CHX, split read counts J6
+type bigBed 12 .
+scoreFilter 11
