@@ -74,3 +74,17 @@ shortLabel ILF2_oe_CHX
 longLabel ILF2 oe with CHX, split read counts J6
 type bigBed 12 .
 scoreFilter 11
+
+track CHX_Sergiev
+bigDataUrl chx_junc_5reads_J4.bb
+shortLabel CHX_Sergiev 
+longLabel CHX in A549 cells, split read counts J4, Sergiev lab
+type bigBed 12 .
+scoreFilter 11
+
+track ctrl_Sergiev
+bigDataUrl ctrl_junc_5reads_J4.bb
+shortLabel ctrl_Sergiev 
+longLabel ctrl in A549 cells, split read counts J4, Sergiev lab
+type bigBed 12 .
+scoreFilter 11
