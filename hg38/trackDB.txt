@@ -1,3 +1,17 @@
+track ctrl_PC3
+bigDataUrl PC3_Control.J6.bb
+shortLabel ctrl_PC3 
+longLabel control cells, PC3 cells, J6 counts
+type bigBed 12 .
+scoreFilter 11
+
+track chx_PC3
+bigDataUrl PC3_Control_chx.J6.bb
+shortLabel chx_PC3 
+longLabel cells treated with CHX, PC3 cells, J6 counts
+type bigBed 12 .
+scoreFilter 11
+
 track ctrl_DP
 bigDataUrl 1_393_23_S1.J6.bb
 shortLabel ctrl_DP 
